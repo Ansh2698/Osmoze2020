@@ -68,7 +68,7 @@
                <!-- SLIDE  -->
                <li data-index="rs-389" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"  data-thumb="revolution/assets/100x50_c248e-c3.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
-                  <img src="images/osmoze-bg2.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                  <img src="images/osmoze-bg2.JPG"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption   tp-resizeme" 
@@ -106,7 +106,7 @@
                <!-- SLIDE  -->
                <li data-index="rs-390" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"  data-thumb="revolution/assets/100x50_ab55c-c12.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
-                  <img src="images/osmoze-bg_3.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                  <img src="images/osmoze-bg_3.JPG"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
                   <!-- LAYER NR. 15 -->
                   <div class="tp-caption   tp-resizeme" 
