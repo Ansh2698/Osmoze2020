@@ -85,7 +85,7 @@
                      data-paddingright="[0,0,0,0]"
                      data-paddingbottom="[0,0,0,0]"
                      data-paddingleft="[0,0,0,0]"
-                     style="z-index: 5; white-space: nowrap; font-size: 28px; line-height: 38px; font-weight: 500; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">A family that Lives together</div>
+                     style="z-index: 5; white-space: nowrap; font-size: 28px; line-height: 38px; font-weight: 500; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Fraternity of Chemical Engineers</div>
                   <!-- LAYER NR. 2 -->
                   <div class="tp-caption   tp-resizeme" 
                      id="slide-389-layer-36" 
@@ -101,7 +101,7 @@
                      data-paddingright="[0,0,0,0]"
                      data-paddingbottom="[0,0,0,0]"
                      data-paddingleft="[0,0,0,0]"
-                     style="z-index: 11; white-space: nowrap; font-size: 70px; line-height: 90px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Love , Emotion & Respect. </div>
+                     style="z-index: 11; white-space: nowrap; font-size: 70px; line-height: 90px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Live ,Grow & Celebrate Together</div>
                </li>
                <!-- SLIDE  -->
                <li data-index="rs-390" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"  data-thumb="revolution/assets/100x50_ab55c-c12.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -123,7 +123,7 @@
                      data-paddingright="[0,0,0,0]"
                      data-paddingbottom="[0,0,0,0]"
                      data-paddingleft="[0,0,0,0]"
-                     style="z-index: 5; white-space: nowrap; font-size: 28px; line-height: 38px; font-weight: 500; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Do what you do better </div>
+                     style="z-index: 5; white-space: nowrap; font-size: 28px; line-height: 38px; font-weight: 500; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">An opportunity for the Chemical Engineers to Show their </div>
                   <div class="tp-caption   tp-resizeme" 
                      id="slide-390-layer-36" 
                      data-x="center" data-hoffset="" 
@@ -138,7 +138,7 @@
                      data-paddingright="[0,0,0,0]"
                      data-paddingbottom="[0,0,0,0]"
                      data-paddingleft="[0,0,0,0]"
-                     style="z-index: 11; white-space: nowrap; font-size: 70px; line-height: 90px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Business on Values </div>
+                     style="z-index: 11; white-space: nowrap; font-size: 70px; line-height: 90px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Knowledge & Skills</div>
                </li>
             </ul>
             <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
@@ -154,7 +154,7 @@ Banner -->
                 <div class="col-lg-6 col-md-12">
                     <div class="event-name">
                         <p style="font-weight:bold;color:white">Osmoze'20 Coming In</p>
-                        <h4>April 9, 2020 <span>Starting @ 09:00 AM</span></h4>
+                        <h4>April 3, 2020 <span>Starting @ 5:00 PM</span></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
@@ -360,6 +360,24 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay="0s">
                         <div class="speaker-box">
                             <div class="pic">
+                                <img src="images/team/osmoze-team_2.png" alt="">
+                                <ul class="social">
+                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="speaker-info">
+                            <h4>Priyank Chaudhary</h4>
+                            <span>Convenor, Osmoze</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6 fw-600">
+                    <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".2s">
+                        <div class="speaker-box">
+                            <div class="pic">
                                 <img src="images/team/osmoze-team_1.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -375,10 +393,10 @@ Banner -->
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6 fw-600">
-                    <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".2s">
+                    <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_2.png" alt="">
+                                <img src="images/team/osmoze-team_4.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -387,8 +405,8 @@ Banner -->
                             </div>
                         </div>
                         <div class="speaker-info">
-                            <h4>Priyank Chaudhary</h4>
-                            <span>Convenor, Osmoze</span>
+                            <h4>Ayush Chakraborty</h4>
+                            <span>Vice President, SoChem</span>
                         </div>
                     </div>
                 </div>
@@ -407,24 +425,6 @@ Banner -->
                         <div class="speaker-info">
                             <h4>Anmol Gupta</h4>
                             <span>Facilitator, SoChem</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-6 fw-600">
-                    <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
-                        <div class="speaker-box">
-                            <div class="pic">
-                                <img src="images/team/osmoze-team_4.png" alt="">
-                                <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="speaker-info">
-                            <h4>Ansh Agrawal</h4>
-                            <span>Informatics Head, SoChem</span>
                         </div>
                     </div>
                 </div>
@@ -496,7 +496,7 @@ Banner -->
                         </div>
                         <div class="speaker-info">
                             <h4>Abhishek Anand</h4>
-                            <span>Marketing Head, Osmoze</span>
+                            <span>Events Head, Osmoze</span>
                         </div>
                     </div>
                 </div>
