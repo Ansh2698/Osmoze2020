@@ -13,7 +13,7 @@
 
         $(window).on('scroll', function () {
             var windowpos = $(window).scrollTop();
-            if (windowpos >= pos.top) {
+            if (windowpos >= window.top) {
                 s.addClass("menu-onscroll");
             } else {
                 s.removeClass("menu-onscroll");
@@ -247,11 +247,12 @@
          ========================================================================== */
         if ($('#lgx-owlgallery').length) {
             $("#lgx-owlgallery").owlCarousel({
-                margin: 0,
-                items: 3,
+                margin: 10,
+                items: 4,
                 loop: true,
                 autoplay:true,
                 dots: false,
+                lazyLoad:true,
                 navText: ["<img src='./images/img/icons/left-arrow.png'>","<img src='./images/img/icons/right-arrow.png'>"],
                 autoplayTimeout: 5000,
                 autoplaySpeed: 500,

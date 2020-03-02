@@ -27,7 +27,7 @@
          <div id="rev_slider_116_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8">
             <ul class="icon-none">
                <!-- SLIDE  -->
-               <li data-index="rs-385" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"  data-thumb="revolution/assets/100x50_7bb4f-fgfg.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+               <li data-index="rs-385" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
                   <img src="images/osmoze-bg_1.png" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
@@ -66,7 +66,7 @@
                      style="z-index: 11; white-space: nowrap; font-size: 70px; line-height: 90px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Osmoze'20</div>
                </li>
                <!-- SLIDE  -->
-               <li data-index="rs-389" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"  data-thumb="revolution/assets/100x50_c248e-c3.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+               <li data-index="rs-389" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
                   <img src="images/osmoze-bg2.JPG"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
@@ -104,7 +104,7 @@
                      style="z-index: 11; white-space: nowrap; font-size: 70px; line-height: 90px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">Live ,Grow & Celebrate Together</div>
                </li>
                <!-- SLIDE  -->
-               <li data-index="rs-390" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default"  data-thumb="revolution/assets/100x50_ab55c-c12.jpg"  data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+               <li data-index="rs-390" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
                   <img src="images/osmoze-bg_3.JPG"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
@@ -175,7 +175,7 @@ Banner -->
         <div class="col-md-6 col-lg-5 d-flex">
             <div class="img-about img d-flex align-items-stretch">
                 <div class="overlay"></div>
-                <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/osmoze-about_1.jpg);">
+                <div class="img d-flex align-self-stretch align-items-center lazy" id="bg-image">
                 </div>
             </div>
         </div>
@@ -208,7 +208,7 @@ Banner -->
                 <div class="item">
                     <div  class="lgx-gallery-single">
                         <figure>
-                            <img title="Memories One" src="images/img/gallery/osmoze-gallery_1.jpg" alt="Memories one"/>
+                            <img title="Memories One" class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_1.jpg" src="images/img/gallery/osmoze-gallery_1_blur.jpg" alt="Memories one"/>
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -224,7 +224,7 @@ Banner -->
                 <div class="item">
                     <div  class="lgx-gallery-single">
                         <figure>
-                            <img src="images/img/gallery/osmoze-gallery_2.jpg" alt="Memories Two" title="Memories Two" />
+                            <img class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_2.jpg" src="images/img/gallery/osmoze-gallery_2_blur.jpg" alt="Memories Two" title="Memories Two" />
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -240,7 +240,7 @@ Banner -->
                 <div class="item">
                     <div  class="lgx-gallery-single">
                         <figure>
-                            <img src="images/img/gallery/osmoze-gallery_3.JPG" alt="Memories Three" title="Memories Three" />
+                            <img class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_3.JPG" src="images/img/gallery/osmoze-gallery_3_blur.JPG" alt="Memories Three" title="Memories Three" />
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -256,7 +256,7 @@ Banner -->
                 <div class="item">
                     <div  class="lgx-gallery-single">
                         <figure>
-                            <img src="images/img/gallery/osmoze-gallery_4.JPG" alt="Memories Four" title="Memories Four" />
+                            <img class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_4.JPG" src="images/img/gallery/osmoze-gallery_4_blur.JPG" alt="Memories Four" title="Memories Four" />
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -272,7 +272,7 @@ Banner -->
                 <div class="item">
                     <div class="lgx-gallery-single">
                         <figure>
-                            <img src="images/img/gallery/osmoze-gallery_5.JPG" alt="Memories Five" title="Memories Five" />
+                            <img class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_5.JPG" src="images/img/gallery/osmoze-gallery_5_blur.JPG" alt="Memories Five" title="Memories Five" />
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -288,7 +288,7 @@ Banner -->
                 <div class="item">
                     <div class="lgx-gallery-single">
                         <figure>
-                            <img src="images/img/gallery/osmoze-gallery_3.JPG" alt="Memories Six" title="Memories Six" />
+                            <img class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_3.JPG" src="images/img/gallery/osmoze-gallery_3_blur.JPG" alt="Memories Six" title="Memories Six" />
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -304,7 +304,7 @@ Banner -->
                 <div class="item">
                     <div  class="lgx-gallery-single">
                         <figure>
-                            <img src="images/img/gallery/osmoze-gallery_2.jpg" alt="Memories Two" title="Memories Two" />
+                            <img class="owl-lazy" data-src="images/img/gallery/osmoze-gallery_2.jpg" src="images/img/gallery/osmoze-gallery_2_blur.jpg" alt="Memories Two" title="Memories Two" />
                             <figcaption class="lgx-figcaption">
                                 <div class="lgx-hover-link">
                                     <div class="lgx-vertical">
@@ -323,7 +323,7 @@ Banner -->
     </section>
     <!--PHOTO GALLERY END-->
 <br><br>
-<section class="ftco-section ftco-subscribe img" style="background-image: url(images/osmoze-bg_2.png);">
+<section class="ftco-section ftco-subscribe img lazy" id="join-event">
     <div class="overlay"></div>
     <div class="container">
         <div class="row justify-content-center pb-5">
@@ -346,7 +346,7 @@ Banner -->
 </section>
 <br><br>
 <!-- Speakers Start -->
-<section class="speakers-area parallax" id="speakers">
+<section class="speakers-area parallax lazy" id="speakers">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-md-offset-0">
@@ -360,7 +360,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay="0s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_2.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_2.png" src="images/team/osmoze-team_2_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -378,7 +378,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".2s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_1.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_1.png" src="images/team/osmoze-team_1_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -396,7 +396,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_4.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_4.png" src="images/team/osmoze-team_4_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -414,7 +414,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_3.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_3.png" src="images/team/osmoze-team_3_blur.png"alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -432,7 +432,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_5.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_5.png" src="images/team/osmoze-team_5_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -450,7 +450,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_6.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_6.png" src="images/team/osmoze-team_6_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -468,7 +468,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_7.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_7.png" src="images/team/osmoze-team_7_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -486,7 +486,7 @@ Banner -->
                     <div class="speaker-col wow fadeInLeft animated" data-wow-duration=".5s" data-wow-delay=".3s">
                         <div class="speaker-box">
                             <div class="pic">
-                                <img src="images/team/osmoze-team_8.png" alt="">
+                                <img class="lazy" data-src="images/team/osmoze-team_8.png" src="images/team/osmoze-team_8_blur.png" alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -508,12 +508,11 @@ Banner -->
       <div class="section-intro text-center pb-98px">
         <p class="section-intro__title">Join the event</p>
         <h2 class="primary-text">Why Join Osmoze ?</h2>
-        <img src="img/home/section-style.png" alt="">
       </div>
 
       <div class="owl-theme owl-carousel blogCarousel pb-xl-1">
         <div class="card-blog">
-          <img class="card-img" src="images/events/Adhyan.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Adhyan.jpg" src="images/events/Adhyan_blur.jpg"alt="">
           <div class="blog-body">
             <a href="#">
               <h3>Ever fancied yourself as a maverick of management? Come test your astute skills in solving a real-life case study in the event, ADHYAYAN.</h3>
@@ -525,7 +524,7 @@ Banner -->
         </div>
 
         <div class="card-blog">
-          <img class="card-img" src="images/events/Chem-coding.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Chem-coding.jpg" src="images/events/Chem-coding_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>Osmoze brings to you the opportunity to showcase logical thinking and dexterity with algorithms in the form of ChemCoding, an exhilarating coding event</h3>
@@ -537,7 +536,7 @@ Banner -->
         </div>
 
         <div class="card-blog">
-          <img class="card-img" src="images/events/Chem-e-boat.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Chem-e-boat.jpg" src="images/events/Chem-e-boat_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>An opportunity for the Chemical Engineers to utilize their knowledge and skills to design a small boat powered by unconventional sources of energy</h3>
@@ -549,7 +548,7 @@ Banner -->
         </div>
 
         <div class="card-blog">
-          <img class="card-img" src="images/events/Chem-debate.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Chem-debate.jpg" src="images/events/Chem-debate_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>The student will be required to debate on an issue of importance to the Chemical Enginerring fraternity.</h3>
@@ -560,7 +559,7 @@ Banner -->
           </div>
         </div>
         <div class="card-blog">
-          <img class="card-img" src="images/events/Udyog.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Udyog.jpg" src="images/events/Udyog_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>Here, you will be provided with areal life engineering challenge,straight from a reputed Chemical based industry. Its high time to show your worth to the industry.</h3>
@@ -571,7 +570,7 @@ Banner -->
           </div>
         </div>
         <div class="card-blog">
-          <img class="card-img" src="images/events/Chemathon.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Chemathon.jpg" src="images/events/Chemathon_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>A series of extremely competitive events needing you to get into the shoes for the internship session.</h3>
@@ -582,7 +581,7 @@ Banner -->
           </div>
         </div>
         <div class="card-blog">
-          <img class="card-img" src="images/events/Pradarshan.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Pradarshan.jpg" src="images/events/Pradarshan_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>In order to promote productive research,this event requires the student to present posters to any research work conducted by him a Chemical engineering related field</h3>
@@ -593,7 +592,7 @@ Banner -->
           </div>
         </div>
         <div class="card-blog">
-          <img class="card-img" src="images/events/Rachna.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/Rachna.jpg" src="images/events/Rachna_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>It is an event focussed on designing and optimization of industrial production process in verticals of process design, process control and real life optimization</h3>
@@ -606,6 +605,7 @@ Banner -->
       </div>
     </div>
   </section>
+<!-- Program Schedule
 <section class="ftco-section bg-light" id="schedule-section">
     <div class="container">
         <div class="row justify-content-center pb-5">
@@ -755,7 +755,7 @@ Banner -->
     </div>
 </div>
     </div>
-</section>
+</section> -->
 <footer class="ftco-footer ftco-section">
 <div class="container">
 
@@ -813,6 +813,57 @@ Osmoze &copy;<script>document.write(new Date().getFullYear());</script> This web
 <script src="libs/owlcarousel/owl.carousel.min.js"></script>
 <!-- CUSTOM SCRIPT  -->
 <script src="js/custom.script.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages;    
+
+  if ("IntersectionObserver" in window) {
+    lazyloadImages = document.querySelectorAll(".lazy");
+    var imageObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          var image = entry.target;
+          image.src = image.dataset.src;
+          image.classList.remove("lazy");
+          imageObserver.unobserve(image);
+        }
+      });
+    });
+
+    lazyloadImages.forEach(function(image) {
+      imageObserver.observe(image);
+    });
+  } else {  
+    var lazyloadThrottleTimeout;
+    lazyloadImages = document.querySelectorAll(".lazy");
+    
+    function lazyload () {
+      if(lazyloadThrottleTimeout) {
+        clearTimeout(lazyloadThrottleTimeout);
+      }    
+
+      lazyloadThrottleTimeout = setTimeout(function() {
+        var scrollTop = window.pageYOffset;
+        lazyloadImages.forEach(function(img) {
+            if(img.offsetTop < (window.innerHeight + scrollTop)) {
+              img.src = img.dataset.src;
+              img.classList.remove('lazy');
+            }
+        });
+        if(lazyloadImages.length == 0) { 
+          document.removeEventListener("scroll", lazyload);
+          window.removeEventListener("resize", lazyload);
+          window.removeEventListener("orientationChange", lazyload);
+        }
+      }, 20);
+    }
+
+    document.addEventListener("scroll", lazyload);
+    window.addEventListener("resize", lazyload);
+    window.addEventListener("orientationChange", lazyload);
+  }
+})
+</script>
 <script>
                         var revapi116,tpj;
 (function() {
