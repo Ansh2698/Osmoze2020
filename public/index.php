@@ -786,8 +786,6 @@ Osmoze &copy;<script>document.write(new Date().getFullYear());</script> This web
 <script src="js/jquery.animateNumber.min.js"></script>
 <script src="js/scrollax.min.js"></script>
 <script src="js/wow.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-<script src="js/google-map.js"></script>
 <script src="js/particles.min.js"></script>
 <script src="js/app.js"></script>
 <script src="js/main.js"></script>
