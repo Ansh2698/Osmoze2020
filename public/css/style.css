@@ -10210,3 +10210,30 @@ canvas {
   background-repeat: repeat;
   background-color: rgba(0, 0, 0, 0.3);
 }
+.Register{
+  background-color: #4c0085;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+  width:100%;
+}
+.register-button a:hover{
+  color: whitesmoke !important;
+  box-shadow: 0 20px 24px 0 rgba(0,0,0,0.24),0 30px 70px 0 rgba(0,0,0,0.19);
+}
+.register-button a:visited{
+  color: whitesmoke !important;
+  box-shadow: 0 20px 24px 0 rgba(0,0,0,0.24),0 30px 70px 0 rgba(0,0,0,0.19);
+}
+.register-button a:active{
+  color: whitesmoke !important;
+  box-shadow: 0 20px 24px 0 rgba(0,0,0,0.24),0 30px 70px 0 rgba(0,0,0,0.19);
+}

@@ -329,13 +329,12 @@ Banner -->
         <div class="row justify-content-center pb-5">
     <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
     <h2 class="mb-4">Join Our Event</h2>
-    <p>Do register your Institute email id to participate in the upcoming events of osmoze.</p>
+    <p>Do register your with your Institute email id to participate in the upcoming events of osmoze.</p>
     <div class="row d-flex justify-content-center mt-4">
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
-            <div class="form-group d-flex">
-            <input type="text" class="form-control" placeholder="Enter email address">
-            <input type="submit" value="Register" class="submit px-3">
+            <div class="form-group d-flex register-button">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-aQqidL0hm-GBPdxwHLRCXdCNv3yo-kzR0_Ad5llRxCxOgQ/viewform?usp=sf_link" target="_blank" class="Register">Register</a>
             </div>
         </form>
         </div>
