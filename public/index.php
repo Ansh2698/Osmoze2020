@@ -68,7 +68,7 @@
                <!-- SLIDE  -->
                <li data-index="rs-389" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
-                  <img src="images/osmoze-bg2.JPG"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                  <img src="images/osmoze-bg2.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption   tp-resizeme" 
@@ -106,7 +106,7 @@
                <!-- SLIDE  -->
                <li data-index="rs-390" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-rotate="0,0,0,0"  data-saveperformance="off"  class="b1-video" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                   <!-- MAIN IMAGE -->
-                  <img src="images/osmoze-bg_3.JPG"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                  <img src="images/osmoze-bg_3.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
                   <!-- LAYER NR. 15 -->
                   <div class="tp-caption   tp-resizeme" 
@@ -185,7 +185,7 @@ Banner -->
                 <span class="subheading">Welcome</span>
             <h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Osmoze</h2>
             <p>Osmoze is the annual technical extravaganza organized by the Department of Chemical engineering, IIT BHU, Varanasi. We intend to provide a competitive platform for honing technical and professional skills of students, especially those interested in chemical engineering. Flagship contests of the festival include Chem-e-boat – competition of running boats through chemical reactions, Rachna – an industrial process designing contest, Case studies and IDP sponsored by industries, and a veritable potpourri of events to nurture the engineering professional inside you.
-                Osmoze is the perfect platform to enhance your professional skills and experience a unique atmosphere of creativity and innovation. So mark your calendar for 9th-10th April and get ready for this one of a kind fest.</p>
+                Osmoze is the perfect platform to enhance your professional skills and experience a unique atmosphere of creativity and innovation. So mark your calendar for 3rd-5th April and get ready for this one of a kind fest.</p>
             </div>
         </div>
         <div class="counter-wrap ftco-animate d-flex mt-md-3">
@@ -518,7 +518,7 @@ Banner -->
               <h3>Ever fancied yourself as a maverick of management? Come test your astute skills in solving a real-life case study in the event, ADHYAYAN.</h3>
             </a>
             <ul class="blog-info">
-              <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+              <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -530,7 +530,7 @@ Banner -->
               <h3>Osmoze brings to you the opportunity to showcase logical thinking and dexterity with algorithms in the form of ChemCoding, an exhilarating coding event</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -542,7 +542,7 @@ Banner -->
               <h3>An opportunity for the Chemical Engineers to utilize their knowledge and skills to design a small boat powered by unconventional sources of energy</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -554,7 +554,7 @@ Banner -->
               <h3>The student will be required to debate on an issue of importance to the Chemical Enginerring fraternity.</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -565,7 +565,7 @@ Banner -->
               <h3>Here, you will be provided with areal life engineering challenge,straight from a reputed Chemical based industry. Its high time to show your worth to the industry.</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -576,7 +576,7 @@ Banner -->
               <h3>A series of extremely competitive events needing you to get into the shoes for the internship session.</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -587,7 +587,7 @@ Banner -->
               <h3>In order to promote productive research,this event requires the student to present posters to any research work conducted by him a Chemical engineering related field</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -598,7 +598,7 @@ Banner -->
               <h3>It is an event focussed on designing and optimization of industrial production process in verticals of process design, process control and real life optimization</h3>
             </a>
             <ul class="blog-info">
-                <li><a href="#"><i class="ti-comments-smiley"></i> 9 April, 2020</a></li>
+                <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>

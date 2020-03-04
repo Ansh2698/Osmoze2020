@@ -9862,11 +9862,14 @@ textarea.form-control {
   }
 }
 @media only screen and (max-width: 479px) {
-  .countdown-timer .cd-time span {
-		font-size: 20px !important;
+  .event-counter .countdown-timer .cd-time span {
+    font-size: 2px !important;
+    margin-right: 0px !important;
+    text-align: center;
   }
   .event-counter{
     text-align: center;
+    margin-right: 0px !important;
     padding: 5px 0 5px 0 !important;
     font-size: 15px;
   }
