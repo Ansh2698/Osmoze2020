@@ -361,9 +361,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_2.png" src="images/team/osmoze-team_2_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/Priyank141997" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/priyank_0714/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/priyank-chaudhary-83a4a0157" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -379,9 +379,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_1.png" src="images/team/osmoze-team_1_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/yukti.04" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/__yuktiii_/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yukti-gupta-60b4a7164" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -397,9 +397,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_4.png" src="images/team/osmoze-team_4_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/IamAC11" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/_ac.11/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ayush-chakraborty-20693513a/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -416,7 +416,7 @@ Banner -->
                                 <img class="lazy" data-src="images/team/osmoze-team_3.png" src="images/team/osmoze-team_3_blur.png"alt="">
                                 <ul class="social">
                                     <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.instagram.com/_anmol.gupta__/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
@@ -433,9 +433,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_5.png" src="images/team/osmoze-team_5_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ansh.agrawal.315" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/ansh9997/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ansh-agrawal-2520a916a/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -451,9 +451,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_6.png" src="images/team/osmoze-team_6_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/debashish.nanda.77" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/_debashish_nanda/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/debashish-nanda-b38164160/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -469,9 +469,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_7.png" src="images/team/osmoze-team_7_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/anirudh.shivam.9" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/ani_rudh_shivam/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/anirudh-shivam-702600155" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -487,9 +487,9 @@ Banner -->
                             <div class="pic">
                                 <img class="lazy" data-src="images/team/osmoze-team_8.png" src="images/team/osmoze-team_8_blur.png" alt="">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/anmolg.gupta" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/greymatter5457/?hl=hu" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/anmol-gupta-9520a914a" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=100005948079217" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://instagram.com/abhi_anand23?igshid=2t1dh2qqrw3t" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/abhishek-anand-80556a171/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
