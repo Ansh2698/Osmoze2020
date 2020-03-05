@@ -440,7 +440,7 @@ Banner -->
                             </div>
                         </div>
                         <div class="speaker-info">
-                            <h4>Arjun Salyan</h4>
+                            <h4>Ansh Agrawal</h4>
                             <span>Informatics Head, SoChem</span>
                         </div>
                     </div>
