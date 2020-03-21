@@ -334,7 +334,7 @@ Banner -->
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-aQqidL0hm-GBPdxwHLRCXdCNv3yo-kzR0_Ad5llRxCxOgQ/viewform?usp=sf_link" target="_blank" class="Register">Register</a>
+            <a href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform" target="_blank" class="Register">Register</a>
             </div>
         </form>
         </div>
