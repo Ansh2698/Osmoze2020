@@ -329,7 +329,7 @@ Banner -->
         <div class="row justify-content-center pb-5">
     <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
     <h2 class="mb-4">Participate from your home</h2>
-    <p>Osmoze will be organised completely online this year. Continue to the events dashboard for more all information.</p>
+    <p>Osmoze will be organised completely online this year. Continue to the events dashboard for more information.</p>
     <div class="row d-flex justify-content-center mt-4">
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
