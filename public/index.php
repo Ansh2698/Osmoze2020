@@ -335,7 +335,7 @@ Banner -->
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
             <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
-            <a class="Register">Live Registration will start soon</a>
+            <a class="Register">Live Registration will start soon ...</a>
             </div>
         </form>
         </div>
