@@ -334,7 +334,8 @@ Banner -->
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
-            <a href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform" target="_blank" class="Register">Register</a>
+            <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
+            <a class="Register">Live Registration will start soon</a>
             </div>
         </form>
         </div>
@@ -502,7 +503,7 @@ Banner -->
             </div>
         </div>
 </section>
-<section class="section-margin" id="event-section">
+<!-- <section class="section-margin" id="event-section">
     <div class="container">
       <div class="section-intro text-center pb-98px">
         <p class="section-intro__title">Join the event</p>
@@ -603,7 +604,7 @@ Banner -->
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 <!-- Program Schedule
 <section class="ftco-section bg-light" id="schedule-section">
     <div class="container">
