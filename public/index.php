@@ -328,14 +328,14 @@ Banner -->
     <div class="container">
         <div class="row justify-content-center pb-5">
     <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
-    <h2 class="mb-4">Join Our Event</h2>
-    <p>Do register your with your Institute email id to participate in the upcoming events of osmoze.</p>
+    <h2 class="mb-4">Participate from your home</h2>
+    <p>Osmoze will be organised completely online this year. Continue to the events dashboard for more all information.</p>
     <div class="row d-flex justify-content-center mt-4">
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
             <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
-            <a class="Register">Live Registration will start soon ...</a>
+            <a href="/events" class="Register">GO TO EVENTS DASHBOARD</a>
             </div>
         </form>
         </div>
