@@ -334,8 +334,7 @@ Banner -->
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
-            <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
-            <a class="Register">Live Registration will start soon ...</a>
+            <a href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform" target="_blank" class="Register">Register</a>
             </div>
         </form>
         </div>
@@ -503,7 +502,7 @@ Banner -->
             </div>
         </div>
 </section>
-<!-- <section class="section-margin" id="event-section">
+<section class="section-margin" id="event-section">
     <div class="container">
       <div class="section-intro text-center pb-98px">
         <p class="section-intro__title">Join the event</p>
@@ -535,7 +534,7 @@ Banner -->
           </div>
         </div>
 
-        <div class="card-blog">
+        <!-- <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Chem-e-boat.jpg" src="images/events/Chem-e-boat_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
@@ -601,7 +600,7 @@ Banner -->
                 <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section> -->
