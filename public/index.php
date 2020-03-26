@@ -334,8 +334,12 @@ Banner -->
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
+<<<<<<< HEAD
+            <a href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform" target="_blank" class="Register">Register</a>
+=======
             <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
             <a href="/events" class="Register">GO TO EVENTS DASHBOARD</a>
+>>>>>>> 7770c4a4a4e6a6692f4d21c0b2f6df2f0f924848
             </div>
         </form>
         </div>
@@ -503,7 +507,7 @@ Banner -->
             </div>
         </div>
 </section>
-<!-- <section class="section-margin" id="event-section">
+<section class="section-margin" id="event-section">
     <div class="container">
       <div class="section-intro text-center pb-98px">
         <p class="section-intro__title">Join the event</p>
@@ -514,11 +518,11 @@ Banner -->
         <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Adhyan.jpg" src="images/events/Adhyan_blur.jpg"alt="">
           <div class="blog-body">
-            <a href="#">
+            <a href="./events/pages/UI/adhyayan.html">
               <h3>Ever fancied yourself as a maverick of management? Come test your astute skills in solving a real-life case study in the event, ADHYAYAN.</h3>
             </a>
             <ul class="blog-info">
-              <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
+              <li><a href="./events/pages/UI/adhyayan.html"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -526,16 +530,16 @@ Banner -->
         <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Chem-coding.jpg" src="images/events/Chem-coding_blur.jpg" alt="">
           <div class="blog-body">
-            <a href="#">
+            <a href="./events/pages/UI/cc.html">
               <h3>Osmoze brings to you the opportunity to showcase logical thinking and dexterity with algorithms in the form of ChemCoding, an exhilarating coding event</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
+            <li><a href="./events/pages/UI/cc.html"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
 
-        <div class="card-blog">
+        <!-- <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Chem-e-boat.jpg" src="images/events/Chem-e-boat_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
@@ -601,7 +605,7 @@ Banner -->
                 <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section> -->
