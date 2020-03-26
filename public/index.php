@@ -334,12 +334,8 @@ Banner -->
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
-<<<<<<< HEAD
-            <a href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform" target="_blank" class="Register">Register</a>
-=======
             <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
             <a href="/events" class="Register">GO TO EVENTS DASHBOARD</a>
->>>>>>> 7770c4a4a4e6a6692f4d21c0b2f6df2f0f924848
             </div>
         </form>
         </div>
