@@ -328,13 +328,14 @@ Banner -->
     <div class="container">
         <div class="row justify-content-center pb-5">
     <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
-    <h2 class="mb-4">Join Our Event</h2>
-    <p>Do register your with your Institute email id to participate in the upcoming events of osmoze.</p>
+    <h2 class="mb-4">Participate from your home</h2>
+    <p>Osmoze will be organised completely online this year. Continue to the events dashboard for more information.</p>
     <div class="row d-flex justify-content-center mt-4">
         <div class="col-md-10">
         <form action="#" class="subscribe-form">
             <div class="form-group d-flex register-button">
-            <a href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform" target="_blank" class="Register">Register</a>
+            <!-- href="https://docs.google.com/forms/d/1wypdEl71TRqAvgW-ADUai-OQhrZ9mImHNOUhRfDUOgA/viewform -->
+            <a href="/events" class="Register">GO TO EVENTS DASHBOARD</a>
             </div>
         </form>
         </div>
@@ -502,7 +503,7 @@ Banner -->
             </div>
         </div>
 </section>
-<!-- <section class="section-margin" id="event-section">
+<section class="section-margin" id="event-section">
     <div class="container">
       <div class="section-intro text-center pb-98px">
         <p class="section-intro__title">Join the event</p>
@@ -513,11 +514,11 @@ Banner -->
         <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Adhyan.jpg" src="images/events/Adhyan_blur.jpg"alt="">
           <div class="blog-body">
-            <a href="#">
+            <a href="./events/pages/UI/adhyayan.html">
               <h3>Ever fancied yourself as a maverick of management? Come test your astute skills in solving a real-life case study in the event, ADHYAYAN.</h3>
             </a>
             <ul class="blog-info">
-              <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
+              <li><a href="./events/pages/UI/adhyayan.html"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
@@ -525,16 +526,16 @@ Banner -->
         <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Chem-coding.jpg" src="images/events/Chem-coding_blur.jpg" alt="">
           <div class="blog-body">
-            <a href="#">
+            <a href="./events/pages/UI/cc.html">
               <h3>Osmoze brings to you the opportunity to showcase logical thinking and dexterity with algorithms in the form of ChemCoding, an exhilarating coding event</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
+            <li><a href="./events/pages/UI/cc.html"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
 
-        <div class="card-blog">
+        <!-- <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Chem-e-boat.jpg" src="images/events/Chem-e-boat_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
@@ -600,7 +601,7 @@ Banner -->
                 <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section> -->
