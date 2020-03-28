@@ -534,32 +534,8 @@ Banner -->
             </ul>
           </div>
         </div>
-
-        <!-- <div class="card-blog">
-          <img class="card-img lazy" data-src="images/events/Chem-e-boat.jpg" src="images/events/Chem-e-boat_blur.jpg" alt="">
-          <div class="blog-body">
-            <a href="#">
-              <h3>An opportunity for the Chemical Engineers to utilize their knowledge and skills to design a small boat powered by unconventional sources of energy</h3>
-            </a>
-            <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
-            </ul>
-          </div>
-        </div>
-
         <div class="card-blog">
-          <img class="card-img lazy" data-src="images/events/Chem-debate.jpg" src="images/events/Chem-debate_blur.jpg" alt="">
-          <div class="blog-body">
-            <a href="#">
-              <h3>The student will be required to debate on an issue of importance to the Chemical Enginerring fraternity.</h3>
-            </a>
-            <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="card-blog">
-          <img class="card-img lazy" data-src="images/events/Udyog.jpg" src="images/events/Udyog_blur.jpg" alt="">
+          <img class="card-img lazy" data-src="images/events/udyog.jpg" src="images/events/udyog_blur.jpg" alt="">
           <div class="blog-body">
             <a href="#">
               <h3>Here, you will be provided with areal life engineering challenge,straight from a reputed Chemical based industry. Its high time to show your worth to the industry.</h3>
@@ -580,28 +556,6 @@ Banner -->
             </ul>
           </div>
         </div>
-        <div class="card-blog">
-          <img class="card-img lazy" data-src="images/events/Pradarshan.jpg" src="images/events/Pradarshan_blur.jpg" alt="">
-          <div class="blog-body">
-            <a href="#">
-              <h3>In order to promote productive research,this event requires the student to present posters to any research work conducted by him a Chemical engineering related field</h3>
-            </a>
-            <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="card-blog">
-          <img class="card-img lazy" data-src="images/events/Rachna.jpg" src="images/events/Rachna_blur.jpg" alt="">
-          <div class="blog-body">
-            <a href="#">
-              <h3>It is an event focussed on designing and optimization of industrial production process in verticals of process design, process control and real life optimization</h3>
-            </a>
-            <ul class="blog-info">
-                <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
-            </ul>
-          </div>
-        </div> -->
       </div>
     </div>
   </section> -->
