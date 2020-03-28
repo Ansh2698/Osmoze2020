@@ -537,22 +537,22 @@ Banner -->
         <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/udyog.jpg" src="images/events/udyog_blur.jpg" alt="">
           <div class="blog-body">
-            <a href="#">
+            <a href="./events/pages/UI/udyog.html">
               <h3>Here, you will be provided with areal life engineering challenge,straight from a reputed Chemical based industry. Its high time to show your worth to the industry.</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
+            <li><a href="./events/pages/UI/udyog.html"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
         <div class="card-blog">
           <img class="card-img lazy" data-src="images/events/Chemathon.jpg" src="images/events/Chemathon_blur.jpg" alt="">
           <div class="blog-body">
-            <a href="#">
+            <a href="./events/pages/UI/ct.html">
               <h3>A series of extremely competitive events needing you to get into the shoes for the internship session.</h3>
             </a>
             <ul class="blog-info">
-            <li><a href="#"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
+            <li><a href="./events/pages/UI/ct.html"><i class="ti-comments-smiley"></i> 3rd April, 2020</a></li>
             </ul>
           </div>
         </div>
