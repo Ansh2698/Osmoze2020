@@ -261,7 +261,7 @@ Banner -->
                     <div class="post-img">
                         <div class="da-thumbs">
                             <a href="#">
-                                <img src="images/events/osmocross.jpg" alt="">
+                                <img class="lazy" data-src="images/events/osmocross.jpg" src="images/events/osmocross_blur.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -287,7 +287,7 @@ Banner -->
                     <div class="post-img">
                         <div class="da-thumbs">
                             <a href="./events/pages/UI/adhyayan.html">
-                                <img src="images/events/Adhyan.jpg" alt="">
+                                <img class="lazy" data-src="images/events/Adhyan.jpg" src="images/events/Adhyan_blur.jpg"alt="">
                             </a>
                         </div>
                         <a href="./events/pages/UI/adhyayan-ps.pdf" class="icons"><i class="fa fa-plus"></i></a>
@@ -316,7 +316,7 @@ Banner -->
                     <div class="post-img">
                         <div class="da-thumbs">
                             <a href="./events/pages/UI/udyog.html">
-                                <img src="images/events/udyog.jpg" alt="">
+                                <img class="lazy" data-src="images/events/udyog.jpg" src="images/events/udyog_blur.jpg" alt="">
                             </a>
                         </div>
                         <a href="./events/pages/UI/udyog-ps.pdf" class="icons"><i class="fa fa-plus"></i></a>
