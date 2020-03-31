@@ -260,32 +260,6 @@ Banner -->
                 <div class="post-slide">
                     <div class="post-img">
                         <div class="da-thumbs">
-                            <a href="#">
-                                <img class="lazy" data-src="images/events/osmocross.jpg" src="images/events/osmocross_blur.jpg" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="post-review">
-                        <ul class="post-bar">
-                            <li><i class="fa fa-calendar"></i>March 28, 2020</li>
-                        </ul>
-                        <h3 class="post-title">OsmoCross 1 Result</h3>
-                        <p class="post-description">OsmoCross 1 held on 27th March saw some nail biting competition.<br>
-
-                            1 .<b>Shanan - 19045098</b> (350 Paytm Cash)<br>
-                            2 .<b>Sachhit D Seth - 19075087</b> (150 Paytm Cash)<br>
-                            3 .<b>Aadi Shukla - 19045001</b> (Goodies)<br>
-                            Get ready for the more exciting OsmoCross 2 coming on 30th March.</p>
-                        <ul class="post-comment">
-                            <li>
-                                <a href="/events" class="read-more">Read more<i class="fa fa-chevron-right"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="post-slide">
-                    <div class="post-img">
-                        <div class="da-thumbs">
                             <a href="./events/pages/UI/adhyayan.html">
                                 <img class="lazy" data-src="images/events/Adhyan.jpg" src="images/events/Adhyan_blur.jpg"alt="">
                             </a>
@@ -338,6 +312,56 @@ Banner -->
                         <ul class="post-comment">
                             <li>
                                 <a href="./events/pages/UI/udyog.html" class="read-more">Read more<i class="fa fa-chevron-right"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="post-slide">
+                    <div class="post-img">
+                        <div class="da-thumbs">
+                            <a href="#">
+                                <img class="lazy" data-src="images/events/osmocross.jpg" src="images/events/osmocross_blur.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="post-review">
+                        <ul class="post-bar">
+                            <li><i class="fa fa-calendar"></i>March 28, 2020</li>
+                        </ul>
+                        <h3 class="post-title">OsmoCross 1 Result</h3>
+                        <p class="post-description">OsmoCross 1 held on 27th March saw some nail biting competition.<br>
+                            1 .<b>Shanan - 19045098</b> (350 Paytm Cash)<br>
+                            2 .<b>Sachhit D Seth - 19075087</b> (150 Paytm Cash)<br>
+                            3 .<b>Aadi Shukla - 19045001</b> (Goodies)<br>
+                            Get ready for the more exciting OsmoCross 2 coming on 30th March.</p>
+                        <ul class="post-comment">
+                            <li>
+                                <a href="/events" class="read-more">Read more<i class="fa fa-chevron-right"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="post-slide">
+                    <div class="post-img">
+                        <div class="da-thumbs">
+                            <a href="#">
+                                <img class="lazy" data-src="images/events/osmocross.jpg" src="images/events/osmocross_blur.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="post-review">
+                        <ul class="post-bar">
+                            <li><i class="fa fa-calendar"></i>March 31, 2020</li>
+                        </ul>
+                        <h3 class="post-title">OsmoCross 2 Results</h3>
+                        <p class="post-description">OsmoCross 2 held on 30th March saw some nail biting competition.<br>
+                            1 .<b>Nishtha Bodani - 19045072</b> (350 Paytm Cash)<br>
+                            2 .<b>Aadi Shukla - 19045001</b> (150 Paytm Cash)<br>
+                            3 .<b>Anshul Sahai - 19045021</b> (Goodies)<br>
+                            Get ready for more exciting events of Osmoze'20 starting from 3rd April 2020.</p>
+                        <ul class="post-comment">
+                            <li>
+                                <a href="/events" class="read-more">Read more<i class="fa fa-chevron-right"></i></a>
                             </li>
                         </ul>
                     </div>
